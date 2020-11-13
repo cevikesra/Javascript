@@ -1,0 +1,1 @@
+var sayilar = []; for(int i=1;i<4;i++){ for(int j=0;j<50;j++){ if(i==1){ sayilar[j]=1; document.write("kapilar acılmasi"+sayilar[j]); } if(i==2){ sayilar[j]=0; document.write("kapilar acılmasi"+sayilar[j]); } if(i==3){ sayilar[j]=0; document.write("kapilar kapansin"+sayilar[j]); } }}
